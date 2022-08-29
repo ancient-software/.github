@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello, fellow sentient beings! 👋
 
-Welcome to ancient software! The word **ancient** is a modest realization that we are at a very primitive age of computation, that we have understood and achieved very little, and yet to understand and achieve a lot more.
+Welcome to ancient software! The word **ancient** is a modest realization that we homo sapiens are at a very primitive age of computation, that we have understood and achieved very little, and yet to understand and achieve a lot more.
 
 <!--
 
