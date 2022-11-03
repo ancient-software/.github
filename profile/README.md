@@ -1,6 +1,6 @@
 ## Hello, fellow sentient beings! 👋
 
-Welcome to ancient software! The word **husky** means that we want to work happily!
+Welcome to husky-lang-org! The word **husky** means that we want to work happily!
 
 <!--
 
